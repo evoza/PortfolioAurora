@@ -4278,3 +4278,8 @@ form textarea:required:valid {
 /* ------------------------------------------------*/
 /* Features Socials End */
 /* ------------------------------------------------*/
+
+
+.avatar__btnholder{
+  margin-top: 30px;
+}

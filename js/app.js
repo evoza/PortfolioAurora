@@ -289,7 +289,7 @@ $(function() {
       slidesPerView: 1,
       spaceBetween: 20,
       autoplay: true,
-      speed: 1000,
+      speed: 1500,
       loop: true,
       loopFillGroupWithBlank: true,
       navigation: {
